@@ -36,7 +36,7 @@ Tech skills 💻
 
 | First Header | Second Header | Third Header | Fourth Header | Fifth Header | Sixth Header | 
 | ------------ | ------------- | ------------ | ------------- | ------------ | ------------ |
-| Content Cell | Content Cell  | Content Cell | Content Cell  | Content Cell | Content Cell |
+| SELECT (*, LIKE, TOP) | =  | AND | GETDATE  | COUNT () | JOIN |
 | Content Cell | Content Cell  | Content Cell | Content Cell  | Content Cell | Content Cell |
 | Content Cell | Content Cell  | Content Cell | Content Cell  | Content Cell | Content Cell |
 | Content Cell | Content Cell  | Content Cell | Content Cell  | Content Cell | Content Cell |
