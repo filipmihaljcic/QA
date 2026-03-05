@@ -48,7 +48,7 @@ Tech skills 💻 <br/>
 - Basic knowledge about SDLC (waterfall, scrum, kanban etc...)
 - REST API 
 - Manual and automated testing
-- API testing (Postman + Axios)
+- API testing (Postman and Playwright + Axios)
 - Exploratory, smoke and regression testing
 - Automated testing (Playwright + JavaScript + PageObjectModel)
 - Instantiation of PageObjectModels using Playwright custom fixtures
