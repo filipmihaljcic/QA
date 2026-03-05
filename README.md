@@ -29,6 +29,7 @@ Tools 🔧
 - [TestRail](https://www.testrail.com/) - for test case management  
 - [WeTransfer](https://wetransfer.com/) - for sending large files 
 
+
 Tech skills 💻
 <br> 
 
