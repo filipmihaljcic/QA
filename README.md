@@ -34,7 +34,7 @@ Tech skills 💻
 
 - SQL
   
-| Syntax and order of execution | Comparission operators |  
+| Syntax and order of execution | Comparission operators | Logical operators | Scalar functions | Aggregate functions | Others | 
 | ------------- | ------------- |  
 | Content Cell  | Content Cell  |  
 | Content Cell  | Content Cell  |  
