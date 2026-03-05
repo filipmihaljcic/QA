@@ -42,7 +42,7 @@ Tech skills 💻 <br/>
 | GROUP BY | >  | LIKE | DATEDIFF (HOUR, MONTH, YEAR etc.)  |  |  |
 | ORDER BY (ASC, DESC) | <  | NOT |   |  |  |
 | UPDATE (SET) | >=  | OR |   |  |  |
-| ALTER TABLE (ADD) | Content Cell  | Content Cell | Content Cell  | Content Cell | Content Cell |
+| ALTER TABLE (ADD) |   |  |   |  |  |
 | INSERT INTO | !<  | IS NOT NULL |   |  |  |
 |  | !>  |  |   |  |  |
 - Basic knowledge about SDLC (waterfall, scrum, kanban etc...)
