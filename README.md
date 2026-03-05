@@ -32,7 +32,8 @@ Tools 🔧
 Tech skills 💻
 <br> 
 
-- SQL  
+- SQL
+  
 | First Header  | Second Header |  
 | ------------- | ------------- |  
 | Content Cell  | Content Cell  |  
