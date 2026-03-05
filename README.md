@@ -38,5 +38,12 @@ Tech skills 💻
 | ------------ | ------------- | ------------ | ------------- | ------------ | ------------ |
 | Content Cell | Content Cell  | Content Cell | Content Cell  | Content Cell | Content Cell |
 | Content Cell | Content Cell  | Content Cell | Content Cell  | Content Cell | Content Cell |
+| Content Cell | Content Cell  | Content Cell | Content Cell  | Content Cell | Content Cell |
+| Content Cell | Content Cell  | Content Cell | Content Cell  | Content Cell | Content Cell |
+| Content Cell | Content Cell  | Content Cell | Content Cell  | Content Cell | Content Cell |
+| Content Cell | Content Cell  | Content Cell | Content Cell  | Content Cell | Content Cell |
+| Content Cell | Content Cell  | Content Cell | Content Cell  | Content Cell | Content Cell |
+| Content Cell | Content Cell  | Content Cell | Content Cell  | Content Cell | Content Cell |
+| Content Cell | Content Cell  | Content Cell | Content Cell  | Content Cell | Content Cell |
 
 
