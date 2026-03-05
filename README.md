@@ -41,10 +41,10 @@ Tech skills 💻
 | FROM | !=  | BETWEEN | UPPER  | SUM() | AS |
 | WHERE | <>  | IN | LOWER  | MIN() | UNION |
 | GROUP BY | >  | LIKE | DATEDIFF (HOUR, MONTH, YEAR etc.)  |  |  |
-| Content Cell | Content Cell  | Content Cell | Content Cell  | Content Cell | Content Cell |
-| Content Cell | Content Cell  | Content Cell | Content Cell  | Content Cell | Content Cell |
-| Content Cell | Content Cell  | Content Cell | Content Cell  | Content Cell | Content Cell |
-| Content Cell | Content Cell  | Content Cell | Content Cell  | Content Cell | Content Cell |
-| Content Cell | Content Cell  | Content Cell | Content Cell  | Content Cell | Content Cell |
+| ORDER BY (ASC, DESC) | <  | NOT |   |  |  |
+| UPDATE (SET) | >=  | OR |   |  |  |
+| ALTER TABLE (ADD) | Content Cell  | Content Cell | Content Cell  | Content Cell | Content Cell |
+| INSERT INTO | !<  | IS NOT NULL |   |  |  |
+|  | !>  |  |   |  |  |
 
 
