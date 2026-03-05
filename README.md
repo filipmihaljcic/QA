@@ -33,9 +33,10 @@ Tech skills 💻
 <br> 
 
 - SQL
-  
-| Syntax and order of execution  | Second Header |
-| ------------- | ------------- | ------------- |
-| SELECT (*, LIKE, TOP)  | Content Cell  | Content Cell | Content Cell |
-| Content Cell  | Content Cell  |
+
+| First Header | Second Header | Third Header | Fourth Header | Fifth Header | Sixth Header | 
+| ------------ | ------------- | ------------ | ------------- | ------------ | ------------ |
+| Content Cell | Content Cell  | Content Cell | Content Cell  | Content Cell | Content Cell |
+| Content Cell | Content Cell  | Content Cell | Content Cell  | Content Cell | Content Cell |
+
 
