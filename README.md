@@ -10,3 +10,8 @@ My experience :nut_and_bolt:
 <br> 
 
 Being a self-taught software tester was an valuable learning experience, but my first professional opportunity came at Atlantbh. During this time, I achieved significant growth in both hard and soft skills, particularly in test automation. At my previous position I had a role of IT support. Wanting everything to work as intended got me into QA field. While not all of my previous work was directly related to QA, it provided me with valuable soft skills that continue to support my professional development.
+
+Tools 🔧
+<br>
+
+[Jira](https://www.atlassian.com/software/jira),[Trello](https://trello.com/) - project managment 
