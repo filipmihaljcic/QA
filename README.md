@@ -30,8 +30,8 @@ Tools 🔧
 - [WeTransfer](https://wetransfer.com/) - for sending large files
   
 <br>
-Tech skills 💻<br/>
-
+Tech skills 💻
+<br/>
 - SQL
 
 | First Header | Second Header | Third Header | Fourth Header | Fifth Header | Sixth Header | 
