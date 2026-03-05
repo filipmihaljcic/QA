@@ -30,7 +30,7 @@ Tools 🔧
 - [WeTransfer](https://wetransfer.com/) - for sending large files
   
 <br>
-Tech skills 💻\
+Tech skills 💻<br/>
 
 - SQL
 
