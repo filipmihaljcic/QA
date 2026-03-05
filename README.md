@@ -61,8 +61,6 @@ Tech skills 💻
 - JavaScript
 
 Soft skills 📂  
-<br> 
-
 -patience 
 -empathy
 -assertivenes
