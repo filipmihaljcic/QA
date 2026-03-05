@@ -32,7 +32,6 @@ Tools 🔧
 <br>
 Tech skills 💻
 - SQL
-<br/>
 
 | First Header | Second Header | Third Header | Fourth Header | Fifth Header | Sixth Header | 
 | :------------: | :-------------: | :------------: | :-------------: | :------------: | :------------: |
