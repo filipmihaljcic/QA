@@ -58,4 +58,12 @@ Tech skills 💻
 - Creating bug reports and test plans
 - CI/CD pipeline (Jenkins)
 - Running apps in container (Docker)
-- JavaScript 
+- JavaScript
+
+Soft skills 📂  
+<br> 
+
+-patience 
+-empathy
+-assertivenes
+-communication 
