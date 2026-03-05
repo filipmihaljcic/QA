@@ -32,7 +32,6 @@ Tools 🔧
 <br>
 Tech skills 💻 <br/>
 - SQL
-
 | First Header | Second Header | Third Header | Fourth Header | Fifth Header | Sixth Header | 
 | :------------: | :-------------: | :------------: | :-------------: | :------------: | :------------: |
 | SELECT (*, LIKE, TOP) |  =  | AND | GETDATE  | COUNT () | JOIN |
@@ -44,7 +43,6 @@ Tech skills 💻 <br/>
 | ALTER TABLE (ADD) | Content Cell  | Content Cell | Content Cell  | Content Cell | Content Cell |
 | INSERT INTO | !<  | IS NOT NULL |   |  |  |
 |  | !>  |  |   |  |  |
-
 - Basic knowledge about SDLC (waterfall, scrum, kanban etc...)
 - REST API 
 - Manual and automated testing
