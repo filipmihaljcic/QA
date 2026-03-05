@@ -27,9 +27,9 @@ Tools 🔧
 - [SelectorsHub](https://selectorshub.com/) - browser extension for finding selectors  
 - [JMeter](https://jmeter.apache.org/) - for load testing of web apps  
 - [TestRail](https://www.testrail.com/) - for test case management  
-- [WeTransfer](https://wetransfer.com/) - for sending large files 
-
-
+- [WeTransfer](https://wetransfer.com/) - for sending large files
+  
+<br>
 Tech skills 💻
 <br> 
 
