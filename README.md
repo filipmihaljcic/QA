@@ -14,7 +14,7 @@ Being a self-taught software tester was an valuable learning experience, but my 
 Tools 🔧
 <br>
 
-[Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com/) - project managment  
+[Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com/) - project management  
 [Slack](https://slack.com/) - team communication  
 [Git](https://git-scm.com/) - version control system  
 [GitHub](https://github.com/) - Git support and repository preparation   
