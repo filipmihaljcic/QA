@@ -26,5 +26,5 @@ Tools 🔧
 [VisualStudioCode](https://code.visualstudio.com/) - code editor\ 
 [SelectorsHub](https://selectorshub.com/) - browser extension for finding selectors\ 
 [JMeter](https://jmeter.apache.org/) - for load testing of web apps\
-[TestRail](https://www.testrail.com/) - for test case management 
+[TestRail](https://www.testrail.com/) - for test case management\
 [WeTransfer](https://wetransfer.com/) - for sending large files\
