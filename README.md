@@ -63,4 +63,17 @@ Soft skills 📂
 - patience 
 - empathy
 - assertivenes
-- communication 
+- communication
+
+Courses 📓 
+-  [Postman API Testing](https://www.youtube.com/playlist?list=PLL34mf651faNJ6Wm8elGZl5mr9Zf14dWH)
+-  [JMeter Load Testing](https://www.youtube.com/watch?v=1tJGRWABpW0)
+-  [Playwright Testing](https://www.youtube.com/playlist?list=PLL34mf651faPMrUKrJP5HFIBeihgmGQTX)
+
+Certificates 📑 
+-  [QA From Scratch](https://www.udemy.com/certificate/UC-183122a1-ec9c-40ce-a55c-b0808ad04eae/)
+
+Samples 🧪 
+-  [Tools Shop Demo](https://practicesoftwaretesting.com/)
+-  [Parabank API](https://parabank.parasoft.com/parabank/api-docs/index.html)
+
