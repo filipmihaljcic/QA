@@ -24,7 +24,7 @@ Tools 🔧
 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - programming language used for test writting and automation\
 [Playwright](https://playwright.dev/) - Microsoft automation framework for end to end testing\
 [VisualStudioCode](https://code.visualstudio.com/) - code editor  
-[SelectorsHub](https://selectorshub.com/) - browser extension for finding selectors\  
-[JMeter](https://jmeter.apache.org/) - for load testing of web apps\  
-[TestRail](https://www.testrail.com/) - for test case management\  
-[WeTransfer](https://wetransfer.com/) - for sending large files\  
+[SelectorsHub](https://selectorshub.com/) - browser extension for finding selectors  
+[JMeter](https://jmeter.apache.org/) - for load testing of web apps  
+[TestRail](https://www.testrail.com/) - for test case management  
+[WeTransfer](https://wetransfer.com/) - for sending large files 
