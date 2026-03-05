@@ -15,4 +15,16 @@ Tools 🔧
 <br>
 
 [Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com/) - project managment\
-[Slack](https://slack.com/) - team communication      
+[Slack](https://slack.com/) - team communication\
+[Git](https://git-scm.com/) - version control system\
+[GitHub](https://github.com/) - Git support and repository preparation\ 
+[GitHubMarkdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - for easier GitHub formatting\
+[Postman](https://www.postman.com/) - API testing\ 
+[Axios](https://axios-http.com/docs/api_intro) - NodeJS library for API testing\
+[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - programming language used for test writting and automation\
+[Playwright](https://playwright.dev/) - Microsoft automation framework for end to end testing\
+[VisualStudioCode](https://code.visualstudio.com/) - code editor\ 
+[SelectorsHub](https://selectorshub.com/) - browser extension for finding selectors\ 
+[JMeter](https://jmeter.apache.org/) - for load testing of web apps\
+[TestRail](https://www.testrail.com/) - for test case management 
+[WeTransfer](https://wetransfer.com/) - for sending large files\
