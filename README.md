@@ -34,8 +34,8 @@ Tech skills 💻
 
 - SQL
   
-| Syntax and order of execution | Comparission operators | Logical operators | Scalar functions | Aggregate functions | Others | 
-| ------------- | ------------- | ------------- | ------ | ----------------- | ---------------- | ------------------- | ------ |
-| SELECT (*, LIKE, TOP)  | = |  
-| Content Cell  | Content Cell  |  
+| First Header  | Second Header | Third Header | Fourth Header | 
+| ------------- | ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
