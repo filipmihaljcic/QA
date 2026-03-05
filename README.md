@@ -31,7 +31,6 @@ Tools 🔧
   
 <br>
 Tech skills 💻
-<br/>
 - SQL
 
 | First Header | Second Header | Third Header | Fourth Header | Fifth Header | Sixth Header | 
@@ -59,8 +58,9 @@ Tech skills 💻
 - Running apps in container (Docker)
 - JavaScript
 
+
 Soft skills 📂  
--patience 
--empathy
--assertivenes
--communication 
+- patience 
+- empathy
+- assertivenes
+- communication 
