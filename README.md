@@ -34,7 +34,7 @@ Tech skills 💻
 
 - SQL
   
-| First Header  | Second Header |  
+| Syntax and order of execution | Comparission operators |  
 | ------------- | ------------- |  
 | Content Cell  | Content Cell  |  
 | Content Cell  | Content Cell  |  
