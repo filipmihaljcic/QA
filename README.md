@@ -21,8 +21,8 @@ Tools 🔧
 - [GitHubMarkdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - for easier GitHub formatting  
 - [Postman](https://www.postman.com/) - API testing  
 - [Axios](https://axios-http.com/docs/api_intro) - HTTP request client for JavaScript   
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - programming language used for test writting and automation  
-- [Playwright](https://playwright.dev/) - Microsoft automation framework for end to end testing  
+- [Playwright](https://playwright.dev/) - Microsoft automation framework for end to end testing
+- [Allure](https://allurereport.org/docs/playwright/) - custom reporting tool for Playwright  
 - [VisualStudioCode](https://code.visualstudio.com/) - code editor  
 - [SelectorsHub](https://selectorshub.com/) - browser extension for finding selectors  
 - [JMeter](https://jmeter.apache.org/) - for load testing of web apps  
@@ -47,4 +47,15 @@ Tech skills 💻
 | INSERT INTO | !<  | IS NOT NULL |   |  |  |
 |  | !>  |  |   |  |  |
 
-
+- Basic knowledge about SDLC (waterfall, scrum, kanban etc...)
+- REST API 
+- Manual and automated testing
+- API testing (Postman + Axios)
+- Exploratory, smoke and regression testing
+- Automated testing (Playwright + JavaScript + PageObjectModel)
+- Instantiation of PageObjectModels using Playwright custom fixtures
+- Mobile application testing (Android Studio)
+- Creating bug reports and test plans
+- CI/CD pipeline (Jenkins)
+- Running apps in container (Docker)
+- JavaScript 
