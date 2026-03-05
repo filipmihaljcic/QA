@@ -57,6 +57,7 @@ Tech skills 💻 <br/>
 - CI/CD pipeline (Jenkins)
 - Running apps in container (Docker)
 - JavaScript
+- Windows and Linux terminal commands
 
 
 Soft skills 📂  
