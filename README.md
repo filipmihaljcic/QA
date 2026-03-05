@@ -15,3 +15,4 @@ Tools 🔧
 <br>
 
 [Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com/) - project managment 
+[Slack](https://slack.com/) - team communication      
