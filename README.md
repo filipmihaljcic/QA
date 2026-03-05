@@ -36,6 +36,6 @@ Tech skills 💻
   
 | Syntax and order of execution | Comparision operators | Third Header | Fourth Header | Fifth Header |  
 | ------------- | ------------- | --------------------- | ------------ | ------------- | ------------ |
-| SELECT (*, LIKE, TOP)  | = | 
+| SELECT (*, LIKE, TOP)  | =    |                       |              |               |              |
 | Content Cell  | Content Cell  |
 
