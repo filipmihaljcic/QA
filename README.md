@@ -35,7 +35,7 @@ Tech skills 💻 <br/>
 
 - SQL
   
-| Syntax and order of execution | Comparison operators | Logical operators | scalar functions | Aggregation functions | Others | 
+| Syntax and order of execution | Comparison operators | Logical operators | Scalar functions | Aggregation functions | Others | 
 | :------------: | :-------------: | :------------: | :-------------: | :------------: | :------------: |
 | SELECT (*, LIKE, TOP) |  =  | AND | GETDATE  | COUNT () | JOIN |
 | FROM | !=  | BETWEEN | UPPER  | SUM() | AS |
