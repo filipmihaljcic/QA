@@ -35,7 +35,7 @@ Tech skills 💻 <br/>
 
 - SQL
   
-| First Header | Second Header | Third Header | Fourth Header | Fifth Header | Sixth Header | 
+| Syntax and order of execution | Comparison operators | Logical operators | scalar functions | Aggregation functions | Others | 
 | :------------: | :-------------: | :------------: | :-------------: | :------------: | :------------: |
 | SELECT (*, LIKE, TOP) |  =  | AND | GETDATE  | COUNT () | JOIN |
 | FROM | !=  | BETWEEN | UPPER  | SUM() | AS |
