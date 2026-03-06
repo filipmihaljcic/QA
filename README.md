@@ -29,6 +29,8 @@ Tools 🔧
 - [JMeter](https://jmeter.apache.org/) - Load testing of web apps  
 - [TestRail](https://www.testrail.com/) - Test case management  
 - [WeTransfer](https://wetransfer.com/) - Sending large files
+- [Docker](https://www.docker.com/) - Container ecosystem for apps
+- [Jenkins](https://www.jenkins.io/) - Automation server   
   
 <br>
 Tech skills 💻 <br/>
@@ -56,8 +58,8 @@ Tech skills 💻 <br/>
 - Mobile application testing (Android Studio)
 - Creating bug reports and test plans
 - Creating test cases and documentation
-- CI/CD pipeline (Jenkins)
-- Running apps in container (Docker)
+- CI/CD pipeline
+- Setting and running apps in Docker containers
 - JavaScript
 - Windows and Linux terminal commands
 
