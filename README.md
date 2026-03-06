@@ -74,8 +74,8 @@ Courses 📓
 -  [Postman API Testing](https://www.youtube.com/playlist?list=PLL34mf651faNJ6Wm8elGZl5mr9Zf14dWH)
 -  [JMeter Load Testing](https://www.youtube.com/watch?v=1tJGRWABpW0)
 -  [Playwright Testing](https://www.youtube.com/playlist?list=PLL34mf651faPMrUKrJP5HFIBeihgmGQTX)
--  [TestRail](https://www.youtube.com/playlist?list=PL0VF8QJoqsVgkP0BMzmTVfaK2Dsr-0_Pm)
 -  [Cypress Testing](https://youtube.com/playlist?list=PLL34mf651faP_cOOErNUi33GeRHhr2QsP)
+-  [TestRail](https://www.youtube.com/playlist?list=PL0VF8QJoqsVgkP0BMzmTVfaK2Dsr-0_Pm)
 
 Certificates 📑 
 -  [QA From Scratch](https://www.udemy.com/certificate/UC-183122a1-ec9c-40ce-a55c-b0808ad04eae/)
