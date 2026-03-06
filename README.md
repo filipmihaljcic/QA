@@ -55,6 +55,7 @@ Tech skills 💻 <br/>
 - Instantiation of PageObjectModels using Playwright custom fixtures
 - Mobile application testing (Android Studio)
 - Creating bug reports and test plans
+- Creating test cases and documentation
 - CI/CD pipeline (Jenkins)
 - Running apps in container (Docker)
 - JavaScript
