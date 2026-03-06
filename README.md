@@ -14,21 +14,21 @@ Being a self-taught software tester was an valuable learning experience, but my 
 Tools 🔧
 <br>
 
-- [Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com/) - project management  
-- [Slack](https://slack.com/) - team communication  
-- [Git](https://git-scm.com/) - version control system  
+- [Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com/) - Project management  
+- [Slack](https://slack.com/) - Team communication  
+- [Git](https://git-scm.com/) - Version control system  
 - [GitHub](https://github.com/) - Git support and repository preparation   
-- [GitHubMarkdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - for easier GitHub formatting  
+- [GitHubMarkdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - Easier GitHub formatting  
 - [Postman](https://www.postman.com/) - API testing  
 - [Axios](https://axios-http.com/docs/api_intro) - HTTP request client for JavaScript   
 - [Playwright](https://playwright.dev/) - Microsoft automation framework for end to end testing
 - [Cypress](https://www.cypress.io/#create) - Open-source automation framework 
-- [Allure](https://allurereport.org/docs/playwright/) - custom reporting tool for Playwright  
-- [VisualStudioCode](https://code.visualstudio.com/) - code editor  
-- [SelectorsHub](https://selectorshub.com/) - browser extension for finding selectors  
-- [JMeter](https://jmeter.apache.org/) - for load testing of web apps  
-- [TestRail](https://www.testrail.com/) - for test case management  
-- [WeTransfer](https://wetransfer.com/) - for sending large files
+- [Allure](https://allurereport.org/docs/playwright/) - Custom reporting tool for Playwright  
+- [VisualStudioCode](https://code.visualstudio.com/) - Code editor  
+- [SelectorsHub](https://selectorshub.com/) - Browser extension for finding selectors  
+- [JMeter](https://jmeter.apache.org/) - Load testing of web apps  
+- [TestRail](https://www.testrail.com/) - Test case management  
+- [WeTransfer](https://wetransfer.com/) - Sending large files
   
 <br>
 Tech skills 💻 <br/>
