@@ -22,6 +22,7 @@ Tools 🔧
 - [Postman](https://www.postman.com/) - API testing  
 - [Axios](https://axios-http.com/docs/api_intro) - HTTP request client for JavaScript   
 - [Playwright](https://playwright.dev/) - Microsoft automation framework for end to end testing
+- [Cypress](https://www.cypress.io/#create) - Open-source automation framework 
 - [Allure](https://allurereport.org/docs/playwright/) - custom reporting tool for Playwright  
 - [VisualStudioCode](https://code.visualstudio.com/) - code editor  
 - [SelectorsHub](https://selectorshub.com/) - browser extension for finding selectors  
